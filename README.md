@@ -1,4 +1,4 @@
 # Diplomado-2017-2
 
-## Impotante:
+## Importante:
 este archivo tiene información creada en markdown **demo**
